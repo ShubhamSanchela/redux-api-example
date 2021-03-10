@@ -1,11 +1,13 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+
+.btn{
+  background-color: burlywood;
+  border-radius: 6px;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
